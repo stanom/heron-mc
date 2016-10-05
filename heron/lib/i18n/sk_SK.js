@@ -262,4 +262,31 @@ Heron.i18n.dict = {
 	'WITHIN DISTANCE': 'V RÁMCI VZDIALENOSTI',
 	'CONTAINS': 'OBSAHUJE',
 	'Simple Time Slider': 'jednoduchý časový bežec'
+	
+	// 1.0.6
+	'Reset': 'Vynulovať',
+	// 'Details': 'Details',
+	'Choose Layer to select with' : 'Choose Layer to select with',
+	'Select a source Layer and then draw to select objects from that layer. <br/>Then select a target Layer to search in using the geometries of the selected objects.': 'Vyberte zdrojovú vrstvu a kreslením vyberte objekty z tejto vrstvy. <br/>Potom vyberte cieľovú vrstvu pre vyhľadávanie pomocou geometrie vybraných objektov.',
+	'Select a draw tool and draw to select objects from' : 'Vyberte kresliaci nástroj a kreslením vyberte objekty',
+	'Select a target layer to search using the geometries of the selected objects': 'Vyberte cieľovú vrstvu pre vyhľadávanie pomocou geometrie vybraných objektov.',
+	'objects selected from "': 'objekty vybrané z "',
+	'Search in target layer using the feature-geometries from the selection' : 'Search in target layer using the feature-geometries from the selection',
+	'Select the spatial operator (optional) and use the Search button to start your search.': 'Vyberte priestorový operátor (voliteľne) a pomocou tlačidla Hľadať spustite vyhľadávanie.',
+	'Type of Search': 'Typ vyhľadávania',
+	'This field is required': 'Toto pole je vyžadované',
+	'Select a drawing tool and draw to search immediately.': 'Vyberte kresliaci nástroj a kreslením okamžite vyhľadávajte.',
+	'Actions': 'Akcie',
+	'Cancel ongoing search': 'Zrušiť pokračujúce hľadanie',
+	'Distance of Search': 'Vzdialenosť hľadania',
+	'Choose a Layer': 'Vyberte vrstvu',
+	'No objects selected': 'Žiaden objekt nie je vybratý',
+	'Too many geometries for spatial filter': 'Priveľa geometrií pre priestorové filtrovanie',
+	'Build your own searches': 'Zostavte si svoje vlastné vyhľadávanie',
+	// 'Get Layer information': 'Get Layer information',
+	// 'Edit Layer Style': 'Edit Layer Style',
+	'Style Editor (Vector)': 'Editor štýlu (vektor)',
+
+    // 1.0.7
+    'OverviewMap': 'Náhľadová mapa'
 };
