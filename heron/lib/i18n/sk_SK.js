@@ -50,12 +50,12 @@ Heron.i18n.dict = {
 	'No match': 'Žiadna zhoda',
 	'Loading...': 'Načítáné­...',
 	'Bookmarks': 'Záložky',
-	'Places': 'Mie­sta',
+	'Places': 'Miesta',
 	'Unknown': 'Neznáme˝',
 	'Feature Info unavailable': 'Informácie o prvku nie sú k dispozícii',
-	'Pan': '<b>Posun</b><br>Držanie­ ľavého tlačidla myši nad mapou posúva aktuálny­<br>pohľad; koliesko myši a pozícia kurzoru nad mapou<br>zároveň ovláda priblíženie (aj v iných režimoch ako Posun)',
-	'Measure length': '<b>Merané dĺžky</b><br>Každé kliknutie­ na ľavé tlačidlo myši nad mapou vytvorí­,<br>bod meraného úseku, dvojité kliknutie­ meranie­ ukončí',
-	'Measure area': '<b>M??ené­ plochy</b><br>Každé kliknutie­ na ľavé tlačidlo myši nad mapou vytvorí­,<br>bod meraného polygónu, dvojité kliknutie­ meranie­ ukončí­',
+	'Pan': '<b>Posun</b><br>Držanie ľavého tlačidla myši nad mapou posúva aktuálny<br>pohľad; koliesko myši a pozícia kurzoru nad mapou<br>zároveň ovláda priblíženie (aj v iných režimoch ako Posun)',
+	'Measure length': '<b>Meranie dĺžky</b><br>Každé kliknutie na ľavé tlačidlo myši nad mapou vytvorí<br>bod meraného úseku, dvojité kliknutie­ meranie­ ukončí',
+	'Measure area': '<b>Meranie plochy</b><br>Každé kliknutie na ľavé tlačidlo myši nad mapou vytvorí<br>bod meraného polygónu, dvojité kliknutie­ meranie­ ukončí­',
 	'Leg': 'Úsek',
 	'Length': 'Dĺžka',
 	'Area': 'Plocha',
@@ -261,5 +261,37 @@ Heron.i18n.dict = {
 	'WITHIN': 'V RÁMCI',
 	'WITHIN DISTANCE': 'V RÁMCI VZDIALENOSTI',
 	'CONTAINS': 'OBSAHUJE',
-	'Simple Time Slider': 'jednoduchý časový bežec'
+	'Simple Time Slider': 'jednoduchý časový bežec',
+	
+	//1.0.5
+	'With loading this bookmark, former edits will be deleted. Do you wish to proceed?': 'Po načítaní tejto záložky budú pôvodné úpravy odstránené. Chcete pokračovať?',
+	'The bookmark contains edits, but the map does not have an edit layer. The edit features of the bookmark will not be displayed.': 'Záložka obsahuje úpravy, ale mapa nemá vrstvu na úpravu. Upravované prvky záložky sa nezobrazia.',
+    
+	// 1.0.6
+	'Reset': 'Resetovať',
+	// 'Details': 'Details',
+	'Choose Layer to select with' : 'Vyberte vrstvu pomocou',
+	'Select a source Layer and then draw to select objects from that layer. <br/>Then select a target Layer to search in using the geometries of the selected objects.': 'Vyberte zdrojovú vrstvu a potom nakreslite výber objektov z tejto vrstvy. <br/>Potom vyberte cieľovú vrstvu, pomocou ktorej vyhľadáte geometrie vybraných objektov.',
+	'Select a draw tool and draw to select objects from' : 'Vyberte nástroj na kreslenie a nakreslite výber objektov z',
+	'Select a target layer to search using the geometries of the selected objects': 'Vyberte cieľovú vrstvu, ktorú chcete vyhľadať pomocou geometrií vybratých objektov',
+	'objects selected from "': 'objekty vybraté z "',
+	'Search in target layer using the feature-geometries from the selection' : 'Vyhľadajte v cieľovej vrstve pomocou geometrií z výberu',
+	'Select the spatial operator (optional) and use the Search button to start your search.': 'Vyberte priestorový operátor (voliteľné) a pomocou vyhľadávacieho tlačidla spustite vyhľadávanie.',
+	'Type of Search': 'Typ vyhľadávania',
+	'This field is required': 'Táto položka je povinná',
+	'Select a drawing tool and draw to search immediately.': 'Vyberte nástroj na kreslenie a kreslite pre okamžité vyhľadávanie.',
+	'Actions': 'Akcie',
+	'Cancel ongoing search': 'Zrušiť prebiehajúce vyhľadávanie',
+	'Distance of Search': 'Vzdialenosť vyhľadávania',
+	'Choose a Layer': 'Zvoliť vrstvu',
+	'No objects selected': 'Žiadne objekty nie sú vybrané',
+	'Too many geometries for spatial filter': 'Priveľa geometrií pre priestorový filter',
+	'Build your own searches': 'Vytvorte svoje vlastné vyhľadávania',
+	// 'Get Layer information': 'Get Layer information',
+	// 'Edit Layer Style': 'Edit Layer Style',
+	'Style Editor (Vector)': 'Editor štýlov (Vektor)',
+
+	// 1.0.7
+	'OverviewMap': 'Prepnúť na mapu',
+	'Click on map to view location in Google StreetView': 'Kliknutím na mapu zobrazíte polohu v aplikácii Google Street View'
 };
